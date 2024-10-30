@@ -1,0 +1,172 @@
+0@1@100@Attack/Wizardry damage increase +28@170@1500@Attack/Wizardry damage increase +28@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1000|@6268@5@1@1000|@1@0@669
+0@2@101@Attack speed increase +11@170@1500@Attack speed increase +11@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1010|@6268@5@1@1010|@1@0@669
+0@3@103@Maximum attack/Wizardry damage increase +50@170@1500@Maximum attack/Wizardry damage increase +50@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1030|@6268@5@1@1030|@1@0@669
+0@4@104@Minimum attack/Wizardry damage increase +35@170@1500@Minimum attack/Wizardry damage increase +35@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1040|@6268@5@1@1040|@1@0@669
+0@5@106@Attack/Wizardry damage increase +35@170@1500@Attack/Wizardry damage increase +35@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1060|@6268@5@1@1060|@1@0@669
+0@6@109@AG Cost reduction +44@170@1500@AG Cost reduction +44 %@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1090|@6268@5@1@1090|@1@0@669
+0@7@110@Defense success rate increase +14 @170@1500@Defense success rate increase +14%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1100|@6269@5@1@1100|@1@0@669
+0@8@112@Defense increase +42@170@1500@Defense increase +42@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1120|@6269@5@1@1120|@1@0@669
+0@9@114@Shield defense increase +30@170@1500@Shield defense increase +30%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1140|@6269@5@1@1140|@1@0@669
+0@10@116@Damage reduction +8@170@1500@Damage reduction +8%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1160|@6269@5@1@1160|@1@0@669
+0@11@157@Damage reflection +9@170@1500@Damage reflection +9%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1570|@6269@5@1@1570|@1@0@669
+0@12@200@Auto HP increase after monster death@170@1500@Auto HP increase after monster death@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2000|@6270@5@1@2000|@1@0@669
+0@13@210@Auto Mana increase after monster death@170@1500@Auto Mana increase after monster death@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2100|@6270@5@1@2100|@1@0@669
+0@14@211@Skill damage increase +60@170@1500@Skill damage increase +60@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2110|@6270@5@1@2110|@1@0@669
+0@15@235@Attack success rate increase +40@170@1500@Attack success rate increase +40@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2350|@6270@5@1@2350|@1@0@669
+0@16@242@Item durability increase +38@170@1500@Item durability increase +38%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2420|@6270@5@1@2420|@1@0@669
+0@17@266@Life autorecovery increase 20@170@1500@Life autorecovery increase 20@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2660|@6271@5@1@2660|@1@0@669
+0@18@273@Maximum Life increase +8@170@1500@Maximum Life increase +8%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2730|@6271@5@1@2730|@1@0@669
+0@19@285@Maximum Mana increase +8@170@1500@Maximum Mana increase +8%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2850|@6271@5@1@2850|@1@0@669
+0@20@306@Automatic Mana recovery increase +35@170@1500@Automatic Mana recovery increase +35@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3060|@6271@5@1@3060|@1@0@669
+0@21@350@Maximum AG increase +50@170@1500@Maximum AG increase +50@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3500|@6271@5@1@3500|@1@0@669
+0@22@364@AG value increase +15@170@1500@AG value increase +15@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3640|@6271@5@1@3640|@1@0@669
+0@23@365@Excellent damage increase +40@170@1500@Excellent damage increase +40@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3650|@6272@5@1@3650|@1@0@669
+0@24@366@Excellent damage rate increase +14@170@1500@Excellent damage rate increase +14%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3660|@6272@5@1@3660|@1@0@669
+0@25@367@Critical damage increase +50@170@1500@Critical damage increase +50@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3670|@6272@5@1@3670|@1@0@669
+0@26@368@Critical damage success rate increase +12@170@1500@Critical damage success rate increase +12%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3680|@6272@5@1@3680|@1@0@669
+0@27@369@Stamina increase@170@1500@Stamina increase@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3690|@6273@5@1@3690|@1@0@669
+31@1@102@Talisman of Luck@170@1000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1020|@7221@2@1@1020|@0@508@669
+31@2@105@Talisman of Chaos Assembly@170@1000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1050|@7264@2@1@1050|@0@508@669
+32@6@125@Dragon (Set Completo)@170@3750@El pack Contiene: +15+F.O #* Dragon Boots (1 UN) #* Dragon Gloves (1 UN) #* Dragon Pants (1 UN) #* Dragon Armor (1 UN) #* Dragon Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10029|10028|10027|10026|10025|@4097@2@1@@0@508@669
+32@7@126@Black Dragon (Set Completo)@170@4000@El pack Contiene: +15+F.O #* Black Dragon Boots (1 UN) #* Black Dragon Gloves (1 UN) #* Black Dragon Pants (1 UN) #* Black Dragon Armor (1 UN) #* Black Dragon Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10035|10034|10033|10032|10030|@4112@2@1@@0@508@669
+32@8@127@Dark Phoenix (Set Completo)@170@4250@Bundle Includes: #* Dark Phoenix Helm (1 UN) #* Dark Phoenix Boots (1 UN) #* Dark Phoenix Gloves (1 UN) #* Dark Phoenix Armor (1 UN) #* Dark Phoenix Pants (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10036|10039|10038|10037|10040|@4113@2@1@@0@508@669
+32@9@128@Great Dragon (Set Completo)@170@4500@El pack Contiene: +15+F.O #* Great Dragon Boots (1 UN) #* Great Dragon Gloves (1 UN) #* Great Dragon Pants (1 UN) #* Great Dragon Armor (1 UN) #* Great Dragon Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10045|10044|10043|10042|10041|@4117@2@1@@0@508@669
+32@10@129@Ashcrow (Set Completo)@170@4750@El pack Contiene: +15+F.O #* Ashcrow Boots (1 UN) #* Ashcrow Gloves (1 UN) #* Ashcrow Pants (1 UN) #* Ashcrow Armor (1 UN) #* Ashcrow Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10050|10049|10048|10047|10046|@4130@2@1@@0@508@669
+33@4@138@Legendary (Set Completo)@170@3750@Este Pack Contiene:+15+F.O #* Legendary Boots (1 UN) #* Legendary Gloves (1 UN) #* Legendary Pants (1 UN) #* Legendary Armor (1 UN) #* Legendary Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10095|10094|10093|10092|10091|@4099@2@1@@0@508@669
+33@5@139@Grand Soul (Set Completo)@170@4000@Este Pack Contiene:+15+F.O #* Grand Soul Boots (1 UN) #* Grand Soul Gloves (1 UN) #* Grand Soul Pants (1 UN) #* Grand Soul Armor (1 UN) #* Grand Soul Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10100|10099|10098|10097|10096|@4114@2@1@@0@508@669
+33@6@140@Dark Soul (Set Completo)@170@4250@Este Pack Contiene:+15+F.O #* Dark Soul Boots (1 UN) #* Dark Soul Gloves (1 UN) #* Dark Soul Pants (1 UN) #* Dark Soul Armor (1 UN) #* Dark Soul Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10105|10104|10103|10102|10101|@4118@2@1@@0@508@669
+33@7@141@Eclipse (Set Completo)@170@4750@Este Pack Contiene:+15+F.O   #* Eclipse Boots (1 UN)   #* Eclipse Gloves (1 UN)   #* Eclipse Pants (1 UN)   #* Eclipse Armor (1 UN)   #* Eclipse Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10115|10114|10113|10112|10111|@4131@2@1@@0@508@669
+33@8@142@Venom Mist (Set Completo)@170@5000@Este Pack Contiene:+15+F.O #* Venom Mist Boots (1 UN) #* Venom Mist Gloves (1 UN) #* Venom Mist Pants (1 UN) #* Venom Mist Armor (1 UN) #* Venom Mist Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10110|10109|10108|10107|10106|@4126@2@1@@0@508@669
+34@5@149@Guardian (Set Completo)@170@3750@Este Pack Contiene:+15+F.O #* Guardian Boots (1 UN) #* Guardian Gloves (1 UN) #* Guardian Pants (1 UN) #* Guardian Armor (1 UN) #* Guardian Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10150|10149|10148|10147|10146|@4110@2@1@@0@508@669
+34@6@150@Holy Spirit (Set Completo)@170@4000@Este Pack Contiene:+15+F.O #* Holy Spirit Boots (1 UN) #* Holy Spirit Gloves (1 UN) #* Holy Spirit Pants (1 UN) #* Holy Spirit Armor (1 UN) #* Holy Spirit Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10155|10154|10153|10152|10151|@4115@2@1@@0@508@669
+34@7@151@Red Sprit (Set Completo)@170@4250@Este Pack Contiene:+15+F.O #* Red Spirit Boots (1 UN) #* Red Spirit Gloves (1 UN) #* Red Spirit Pants (1 UN) #* Red Sprit Armor (1 UN) #* Red Spirit Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10160|10159|10158|10157|10156|@4120@2@1@@0@508@669
+34@8@152@Iris (Set Completo)@170@4750@Este Pack Contiene:+15+F.O  #* Iris Boots (1 UN)  #* Iris Gloves (1 UN)  #* Iris Pants (1 UN)  #* Iris Armor (1 UN)  #* Iris Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10165|10164|10163|10162|10161|@4132@2@1@@0@508@669
+34@9@153@Sylphid Ray (Set Completo)@170@5000@Este Pack Contiene:+15+F.O #* Sylphid Ray Boots (1 UN) #* Sylphid Ray Gloves (1 UN) #* Sylphid Ray Pants (1 UN) #* Sylphid Ray Armor (1 UN) #* Sylphid Ray Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10170|10169|10168|10167|10166|@4127@2@1@@0@508@669
+34@10@154@Seraphim Set [Complete]@170@8000@Este Pack Contiene:+15+F.O  #* Seraphim Boots (1 UN)  #* Seraphim Gloves (1 UN)  #* Seraphim Pants (1 UN)  #* Seraphim Helm (1 UN)  #* Seraphim Armor (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10175|10174|10173|10172|10171|@4145@2@1@@0@508@669
+35@1@158@Storm Crow (Set Completo)@170@3000@Este Pack Contiene:+15+F.O   #* Storm Crow Armor (1 UN)   #* Storm Crow Pants (1 UN)   #* Storm Crow Gloves (1 UN)   #* Storm Crow Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10186|10187|10188|10189|@4111@2@1@@0@508@669
+35@2@159@Thunder Hawk (Set Completo)@170@3500@Este Pack Contiene:+15+F.O      #* Thunder Hawk Boots (1 UN)      #* Thunder Hawk Gloves (1 UN)      #* Thunder Hawk Pants (1 UN)      #* Thunder Hawk Armor (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10193|10192|10191|10190|@4116@2@1@@0@508@669
+35@3@160@Hurricane (Set Completo)@170@4000@El Pack Contiene:+15+F.O  #* Hurricane Boots (1 UN)  #* Hurricane Gloves (1 UN)  #* Hurricane Pants (1 UN)  #* Hurricane Armor (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10198|10197|10196|10195|@4119@2@1@@0@508@669
+35@4@161@Valiant (Set Completo)@170@4750@El Pack Contiene:+15+F.O  #* Valiant Boots (1 UN)  #* Valiant Gloves (1 UN)  #* Valiant Pants (1 UN)  #* Valiant Armor (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10203|10202|10201|10200|@4133@2@1@@0@508@669
+35@5@162@Volcano Set [Complete]@170@8000@Bundle Includes:  #* Volcano Boots (1 UN)  #* Volcano Gloves (1 UN)  #* Volcano Pants (1 UN)  #* Volcano Armor (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10207|10206|10205|10204|@4128@2@1@@0@508@669
+36@1@166@Violent Wind (Set Completo)@170@2500@El Pack Contiene:+15+F.O #* Violent Wind Boots (1 UN) #* Violent Wind Gloves (1 UN) #* Violent Wind Pants (1 UN) #* Violent Wind Armor (1 UN) #* Violent Wind Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10224|10223|10222|10221|10220|@4135@2@1@@0@508@669
+36@2@167@Red Wing (Set Completo)@170@2750@El Pack Contiene:+15+F.O #* Red Wing Boots (1 UN) #* Red Wing Gloves (1 UN) #* Red Wing Pants (1 UN) #* Red Wing Armor (1 UN) #* Red Wing Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10229|10228|10227|10226|10225|@4136@2@1@@0@508@669
+36@3@168@Ancient (Set Completo)@170@3000@El Pack Contiene:+15+F.O #* Ancient Boots (1 UN) #* Ancient Gloves (1 UN) #* Ancient Pants (1 UN) #* Ancient Helm (1 UN) #* Ancient Armor (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10234|10233|10232|10231|10230|@4137@2@1@@0@508@669
+36@4@169@Storm Blitz (Set Completo)@170@4750@El Pack Incluye: +15+F.O #* Storm Blitz Boots (1 UN) #* Storm Blitz Gloves (1 UN) #* Storm Blitz Pants (1 UN) #* Storm Blitz Armor (1 UN) #* Storm Blitz Helm (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10239|10238|10237|10236|10235|@4139@2@1@@0@508@669
+36@5@170@Demonic Set [Completed]@170@8000@El Pack Incluye: +15+F.O  #* Demonic Boots (1 UN)  #* Demonic Gloves (1 UN)  #* Demonic Pants (1 UN)  #* Demonic Helm (1 UN)  #* Demonic Armor (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10244|10243|10242|10241|10240|@4138@2@1@@0@508@669
+36@6@171@Eternal Wing Set [Complete]@170@10000@Bundle Includes:  #* Eternal Wing Boots (1 UN)  #* Eternal Wing Gloves (1 UN)  #* Eternal Wing Pants (1 UN)  #* Eternal Wing Helm (1 UN)  #* Eternal Wing Armor (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10249|10248|10247|10246|10245|@4140@2@1@@0@508@669
+37@1@173@Light Plate (Set Completo)@170@3000@El Pack Incluye: +15+F.O  #* Light Plate Boots (1 UN)  #* Light Plate Gloves (1 UN)  #* Light Plate Armor (1 UN)  #* Light Plate Pants (1 UN)  #* Light Plate Mask (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10259|10258|10256|10257|10255|@4121@2@1@@0@508@669
+37@2@174@Adamantine (Set Completo)@170@3500@El Pack Contiene:+15+F.O  #* Adamantine Boots (1 UN)  #* Adamantine Gloves (1 UN)  #* Adamantine Pants (1 UN)  #* Adamantine Armor (1 UN)  #* Adamantine Mask (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10269|10268|10267|10266|10265|@4122@2@1@@0@508@669
+37@3@175@Dark Steel (Set Completo)@170@4000@El Pack Contiene:+15+F.O  #* Dark Steel Boots (1 UN)  #* Dark Steel Gloves (1 UN)  #* Dark Steel Pants (1 UN)  #* Dark Steel Armor (1 UN)  #* Dark Steel Mask (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10274|10273|10272|10271|10270|@4123@2@1@@0@508@669
+37@4@176@Dark Master (Set Completo)@170@4250@El Pack Contiene:+15+F.O  #* Dark Master Boots (1 UN)  #* Dark Master Gloves (1 UN)  #* Dark Master Pants (1 UN)  #* Dark Master Armor (1 UN)  #* Dark Master Mask (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10279|10278|10277|10276|10275|@4124@2@1@@0@508@669
+37@5@177@Glorious (Set Completo)@170@4750@El Pack Contiene:+15+F.O  #* Glorious Boots (1 UN)  #* Glorious Gloves (1 UN)  #* Glorious Pants (1 UN)  #* Glorious Armor (1 UN)  #* Glorious Mask (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10285|10284|10283|10282|10280|@4134@2@1@@0@508@669
+37@6@178@Sunlight Set [Completed]@170@8000@El Pack Contiene:+15+F.O  #* Sunlight Boots (1 UN)  #* Sunlight Gloves (1 UN)  #* Sunlight Pants (1 UN)  #* Sunlight Mask (1 UN)  #* Sunlight Armor (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10290|10289|10288|10287|10286|@4129@2@1@@0@508@669
+38@2@335@Storm Jahad (Set Completo)@170@3000@Este Pack Contiene:+15+F.O #* Storm Jahad Boots (1 UN) #* Storm Jahad Pants (1 UN) #* Storm Jahad Armor (1 UN) #* Storm Jahad Helm (1 UN) #**NO LLEVA GLOVES**@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10308|10307|10306|10305|@4156@2@1@@0@508@669
+38@3@336@Piercing Groove (Set Completo)@170@3500@Este Pack Contiene:+15+F.O #* Piercing Groove Boots (1 UN) #* Piercing Groove Pants (1 UN) #* Piercing Groove Armor (1 UN) #* Piercing Groove Helm (1 UN) #**NO LLEVA GLOVES**@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10312|10311|10310|10309|@4157@2@1@@0@508@669
+38@4@337@Phoenix Soul Set [Completed]@170@8000@Este Pack Contiene:+15+F.O  #* Phoenix Soul Boots (1 UN)  #* Phoenix Soul Pants (1 UN)  #* Phoenix Soul Armor (1 UN)  #* Phoenix Soul Helmet (1 UN)  #**NO LLEVA GLOVES**@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10316|10315|10314|10313|@4169@2@1@@0@508@669
+39@1@111@Pentagram for Beginners@170@1000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1110|@3272@2@1@1110|@0@508@669
+39@2@113@Muren Book of Magic@170@10000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1130|@3273@2@1@1130|@0@508@669
+39@3@115@Gladiator Dagger@170@10000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1150|@3274@2@1@1150|@0@508@669
+39@4@117@Lorencia Khightz Iron Shield@170@11000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@3275@2@1@1170|@0@508@669
+39@5@118@Hero Elixir@170@11000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@3276@2@1@1180|@0@508@669
+39@6@119@Scroll of Etramu@170@11000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1190|@3277@2@1@1190|@0@508@669
+39@7@120@Merciless Gladiator Dagger@170@15000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1200|@3278@2@1@1200|@0@508@669
+39@8@121@Iron Shield of the Magic@170@15000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1210|@3279@2@1@1210|@0@508@669
+39@9@122@Thoughtful Sage Jewel@170@15000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1220|@3280@2@1@1220|@0@508@669
+39@10@123@Brave Hero Elixir@170@15000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1230|@3281@2@1@1230|@0@508@669
+39@11@124@Kundun Madness Blade@170@15000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1240|@3282@2@1@1240|@0@508@669
+39@12@130@Empire Guardians Stronghold@170@20000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1300|@3283@2@1@1300|@0@508@669
+39@13@131@Ancient Icarus Scroll@170@20000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1310|@3284@2@1@1310|@0@508@669
+39@14@132@Kundun Magic Spell Scroll@170@20000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1320|@3285@2@1@1320|@0@508@669
+39@15@133@Runedil Goldentune Harp@170@20000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1330|@3286@2@1@1330|@0@508@669
+39@16@134@Norrwen Bloodstring Lyra@170@20000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1340|@3287@2@1@1340|@0@508@669
+39@17@135@Lemuria Orb@170@20000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1350|@3288@2@1@1350|@0@508@669
+39@18@136@Arca Prophecy@170@20000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1360|@3289@2@1@1360|@0@508@669
+39@19@137@Kundun Seal Scroll@170@20000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1370|@3290@2@1@1370|@0@508@669
+39@20@143@Antonia Sword@170@20000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1430|@3291@2@1@1430|@0@508@669
+40@1@352@Ring of Ice F.O@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3520|@6664@2@1@3520|@0@508@669
+40@2@353@Ring of Poison@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3530|@6665@2@1@3530|@0@508@669
+40@3@354@Ring of Fire@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3540|@6677@2@1@3540|@0@508@669
+40@4@355@Ring of Earth@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3550|@6678@2@1@3550|@0@508@669
+40@5@356@Ring of Wind@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3560|@6679@2@1@3560|@0@508@669
+40@6@357@Ring of Magic@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3570|@6680@2@1@3570|@0@508@669
+40@7@358@Pendant of Lighting@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3580|@6668@2@1@3580|@0@508@669
+40@8@359@Pendant of Fire@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3590|@6669@2@1@3590|@0@508@669
+40@9@360@Pendant of Ice@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3600|@6681@2@1@3600|@0@508@669
+40@10@361@Pendant of Wind@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3610|@6682@2@1@3610|@0@508@669
+40@11@362@Pendant of Water@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3620|@6683@2@1@3620|@0@508@669
+40@12@363@Pendant of Ability@170@4000@Este item este Full Opciones.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3630|@6684@2@1@3630|@0@508@669
+41@20@201@Knight Blade@170@4500@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2010|@20@2@1@2010|@0@508@669
+41@21@202@Dark Reign Blade@170@4500@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2020|@21@2@1@2020|@0@508@669
+41@22@203@Bone Blade@170@4600@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2030|@22@2@1@2030|@0@508@669
+41@23@204@Explosion Blade@170@4600@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2040|@23@2@1@2040|@0@508@669
+41@25@206@Sword Dancer@170@4700@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2060|@25@2@1@2060|@0@508@669
+41@29@212@Rune Blade@170@4000@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2120|@31@2@1@2120|@0@508@669
+41@31@214@Holy Storm Claw@170@3500@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2140|@33@2@1@2140|@0@508@669
+41@32@215@Piercing Blade Glove@170@4000@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2150|@34@2@1@2150|@0@508@669
+41@33@216@Phoenix Soul Star@170@5000@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2160|@35@2@1@2160|@0@508@669
+42@8@227@Larkan Axe@170@2250@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2270|@519@2@1@2270|@0@508@669
+42@9@228@Crescent Axe@170@2500@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2280|@520@2@1@2280|@0@508@669
+43@9@237@Battle Scepter@170@2500@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2370|@1032@2@1@2370|@0@508@669
+43@10@238@Master Scepter@170@2750@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2380|@1033@2@1@2380|@0@508@669
+43@11@239@Great Scepter@170@3000@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2390|@1034@2@1@2390|@0@508@669
+43@15@243@Soleil Sceptor@170@4000@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2430|@1038@2@1@2430|@0@508@669
+43@16@244@Shining Scepter@170@4250@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2440|@1039@2@1@2440|@0@508@669
+44@16@265@Celestial Bow@170@2250@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2650|@2065@2@1@2650|@0@508@669
+44@18@267@Great Reign Crossbow@170@2750@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2670|@2067@2@1@2670|@0@508@669
+44@19@268@Arrow Viper Bow@170@3000@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2680|@2068@2@1@2680|@0@508@669
+44@20@269@Sylph Wind Bow@170@3250@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2690|@2069@2@1@2690|@0@508@669
+44@21@270@Albatross Bow@170@3500@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2700|@2070@2@1@2700|@0@508@669
+45@10@284@Dragon Soul Staff@170@2750@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2840|@2569@2@1@2840|@0@508@669
+45@11@289@Deadly Staff@170@4000@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2890|@2590@2@1@2890|@0@508@669
+45@12@286@Staff of Kundun@170@3250@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2860|@2571@2@1@2860|@0@508@669
+45@13@287@Grand Viper Staff@170@3500@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2870|@2572@2@1@2870|@0@508@669
+46@6@299@Storm Blitz Stick@170@2500@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2990|@2579@2@1@2990|@0@508@669
+46@7@300@Eternal Wing Stick@170@2750@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3000|@2580@2@1@3000|@0@508@669
+46@9@302@Book of Neil@170@3000@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3020|@2582@2@1@3020|@0@508@669
+46@10@303@Book of Lagle@170@3250@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3030|@2583@2@1@3030|@0@508@669
+46@12@305@Raven Stick@170@3500@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3050|@2594@2@1@3050|@0@508@669
+47@12@318@Serpent Shield@170@3250@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3180|@3083@2@1@3180|@0@508@669
+47@13@319@Bronze Shield@170@3500@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3190|@3084@2@1@3190|@0@508@669
+47@14@320@Dragon Shield@170@3750@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3200|@3085@2@1@3200|@0@508@669
+47@15@321@Legendary Shield@170@4000@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3210|@3086@2@1@3210|@0@508@669
+47@16@322@Grand Soul Shield@170@4250@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3220|@3087@2@1@3220|@0@508@669
+47@17@323@Elemental Shield@170@4250@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3230|@3088@2@1@3230|@0@508@669
+47@22@328@Cross Shield@170@5000@Este Item Es +15+F.O@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3280|@3093@2@1@3280|@0@508@669
+48@1@341@Pet Panda (Por Tiempo)@170@500@-Increases the Experience Acquired by 50% #-Increases defense by +50 #-Collect Zen Automatically@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3410|@6736@2@2@3410|3411|@0@508@669
+48@2@342@Pet Skeleton (Por Tiempo)@170@500@-Increases Damage /HP/ Curse Power by 20%. #-Increases Attack Speed +10 #-Increases the Experience Acquired by 30%. #-Having the Pet Skeleton and Ring Skeleton on increases the Experience Acquired by 60%.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3420|@6779@2@2@3420|3421|@0@508@669
+48@3@343@Demon (Por Tiempo)@170@200@-40% increase in Dmg & Wizard Dmg. #-Increased Attack Speed by +10. #-Level to use 28.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3430|@6720@2@2@3430|3431|@0@508@669
+48@4@344@Horn of Fenrir (Por Tiempo)@170@300@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3440|@6693@2@2@3440|3441|@0@508@669
+48@5@348@Spirit of Guardian (Por Tiempo)@170@200@-Absorbs 30% of Damage Received. -+50 HP increase. -Increased Attack Speed by +10. -Level to use 23.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3480|@6721@2@2@3480|3481|@0@508@669
+48@6@108@Egg Muun Pet@170@5000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@7404@2@1@1080|@0@508@669
+49@1@156@Jewel Of Level@170@5000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1560|@7338@2@1@1560|@0@508@669
+49@2@163@Jewel Of Skill@170@5000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1630|@7339@2@1@1630|@0@508@669
+49@3@164@Jewel Of Luck@170@6000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1640|@7340@2@1@1640|@0@508@669
+49@4@165@Jewel Of Adicional@170@6000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1650|@7341@2@1@1650|@0@508@669
+49@5@172@Jewel Of Excelentt@170@6000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1720|@7342@2@1@1720|@0@508@669
+49@6@179@Jewel Of Socket@170@6000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1790|@7343@2@1@1790|@0@508@669
+49@7@180@Jewel Of Ancient5@170@7000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1800|@7344@2@1@1800|@0@508@669
+49@8@181@Jewel Of Full@170@20000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1810|@7346@2@1@1810|@0@508@669
+49@9@182@Jewel of Harmony@170@100@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1820|@7210@2@1@1820|@0@508@669
+49@10@183@Bundled Jewel of Life@170@300@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1830|@6280@2@1@1830|@0@508@669
+49@11@184@Bundled Jewel of Creation@170@300@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1840|@6281@2@1@1840|@0@508@669
+49@12@185@Bundled Jewel of Guardian@170@500@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1850|@6282@2@1@1850|@0@508@669
+49@13@186@Bundled Jewel of Chaos@170@500@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1860|@6285@2@1@1860|@0@508@669
+49@14@187@Bundled Jewel of Bless@170@400@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1870|@6174@2@1@1870|@0@508@669
+49@15@188@Bundled Jewel of Soul@170@400@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1880|@6175@2@1@1880|@0@508@669
+49@16@190@Bundled Higer Refining Stone@170@300@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1900|@6287@2@1@1900|@0@508@669
+71@1@107@Jewel Of Level@170@1000@Description@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1070|@7338@5@1@1070|@1@0@669
+71@2@144@Jewel Of Skill@170@1000@Description@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1440|@7339@5@1@1440|@1@0@669
+71@3@145@Jewel Of Luck@170@2000@Description@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1450|@7340@5@1@1450|@1@0@669
+71@4@146@Jewel Of Adicional@170@2000@Description@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1460|@7341@5@1@1460|@1@0@669
+71@5@147@Jewel Of Excelent@170@2000@Description@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1470|@7342@5@1@1470|@1@0@669
+71@6@148@Jewel Of Socket@170@2000@Description@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1480|@7343@5@1@1480|@1@0@669
+71@7@155@Jewel Of Full@170@8000@Description@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1550|@7346@5@1@1550|@1@0@669
+71@8@189@Jewel Of Ancient@170@8000@Description@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1890|@7344@5@1@1890|@1@0@669
+72@1@396@Seal of Ascension@170@300@Incrementa la Experiencia adquirida en 150% @@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3960|@6699@5@2@3960|3961|@1@0@669
+72@2@397@Seal of Wealth@170@700@Incrementa la Experiencia adquirida en 200% y el Drop Rate en 150 %@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3970|@6700@5@2@3970|3971|@1@0@669
+72@4@399@Scroll of Quickness@170@400@Attack speed increase +15@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3990|@7240@5@1@3990|@1@0@669
+72@5@400@Scroll of Defense@170@400@Defense increase +60@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@4000|@7241@5@1@4000|@1@0@669
+72@6@401@Scroll of Wizardry@170@400@Wizard Dmg increase +30@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@4010|@7243@5@1@4010|@1@0@669
+72@7@402@Scroll of Wrath@170@400@Increased attack power +30@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@4020|@7242@5@1@4020|@1@0@669
+72@8@403@Scroll of Health@170@400@HP increase +200@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@4030|@7244@5@1@4030|@1@0@669
+72@9@404@Scroll of Mana@170@400@Mana Increase +300@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@4040|@7245@5@1@4040|@1@0@669

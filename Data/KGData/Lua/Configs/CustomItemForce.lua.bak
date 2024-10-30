@@ -1,0 +1,26 @@
+OpenFolder("Definitions")
+
+CUSTOM_ITEM_FORCE = {
+ { ItemIndex = GET_ITEM(0, 170), DamageMin = 300, DamageMax = 450, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 171), DamageMin = 310, DamageMax = 460, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 172), DamageMin = 320, DamageMax = 470, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 173), DamageMin = 330, DamageMax = 480, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 174), DamageMin = 340, DamageMax = 490, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 175), DamageMin = 350, DamageMax = 500, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 176), DamageMin = 360, DamageMax = 510, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 177), DamageMin = 370, DamageMax = 520, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 178), DamageMin = 380, DamageMax = 530, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 179), DamageMin = 390, DamageMax = 540, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 180), DamageMin = 400, DamageMax = 550, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 181), DamageMin = 410, DamageMax = 560, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 182), DamageMin = 420, DamageMax = 570, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 183), DamageMin = 430, DamageMax = 580, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 184), DamageMin = 440, DamageMax = 590, Defense = 0, MagicDefense = 0 },
+ { ItemIndex = GET_ITEM(0, 185), DamageMin = 450, DamageMax = 600, Defense = 0, MagicDefense = 0 },
+}
+
+function StartCustomItemForce()
+	for i = 1, #CUSTOM_ITEM_FORCE do
+		SetItemForce(CUSTOM_ITEM_FORCE[i].ItemIndex, CUSTOM_ITEM_FORCE[i].DamageMin, CUSTOM_ITEM_FORCE[i].DamageMax, CUSTOM_ITEM_FORCE[i].Defense, CUSTOM_ITEM_FORCE[i].MagicDefense)
+	end
+end
